@@ -164,7 +164,7 @@ body {
 
 .button1 {
   background-color: rgb(109, 224, 124);
-  color: black;
+  color: rgb(59, 59, 59);
   border: 2px solid rgb(109, 224, 124);
   padding: 1em;
   border-radius: 8px;
